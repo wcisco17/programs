@@ -6,37 +6,6 @@
       "curriculum_title": "Fontys University",
       "curriculum_description": "The University of Applied Sciences (HBO) Automotive Engineering Programme takes 4 years and the teaching materials consist of theory, practical sessions and project work. Every student follows the same programme for the first 2 years. From the 3rd academic year onwards, you have multiple choices focused on your specific interests. In particular, your choice of internship and minor help you give your studies your own specific direction and substance. If you devote 40 hours per week to your studies, you will definitely make it.",
       "location": "Eindhoven",
-      "course_tag": "Fin",
-      "course_type": "Bachelor",
-      "course_degree": "Bachelor of Science",
-      "course_duration": "48 Months",
-      "course_language": "English",
-      "course_start": "September 2020",
-      "course_study_variant": "Full-Time",
-      "gallery": [
-        {
-          "image": "https://images.pexels.com/photos/3862618/pexels-photo-3862618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-        },
-        {
-          "image": "https://images.pexels.com/photos/3912369/pexels-photo-3912369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-        },
-        {
-          "image": "https://images.pexels.com/photos/3862632/pexels-photo-3862632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-        },
-        {
-          "image": "https://images.pexels.com/photos/3862611/pexels-photo-3862611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-        }
-      ],
-      "courses_background_photo": "https://images.pexels.com/photos/3862627/pexels-photo-3862627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-      "degree_background_photo": "https://fontys.edu/upload_mm/7/9/4/b15d842b-b4eb-40d4-88ce-96d0603e4769_hero%20edu_1920x842_5.png"
-    },
-
-    {
-      "id": "16c4d195-a268-4123-b965-01a89bb71119",
-      "degree": "Automotive Engineering",
-      "curriculum_title": "Fontys University",
-      "curriculum_description": "The University of Applied Sciences (HBO) Automotive Engineering Programme takes 4 years and the teaching materials consist of theory, practical sessions and project work. Every student follows the same programme for the first 2 years. From the 3rd academic year onwards, you have multiple choices focused on your specific interests. In particular, your choice of internship and minor help you give your studies your own specific direction and substance. If you devote 40 hours per week to your studies, you will definitely make it.",
-      "location": "Eindhoven",
       "course_tag": "Finance",
       "course_type": "Bachelor",
       "course_degree": "Bachelor of Science",
