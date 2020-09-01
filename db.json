@@ -1,0 +1,89 @@
+{
+  "education_programs": [
+    {
+      "id": "16c4d195-a268-4123-b965-01a89bb71119",
+      "degree": "Automotive Engineering",
+      "curriculum_title": "Fontys University",
+      "curriculum_description": "The University of Applied Sciences (HBO) Automotive Engineering Programme takes 4 years and the teaching materials consist of theory, practical sessions and project work. Every student follows the same programme for the first 2 years. From the 3rd academic year onwards, you have multiple choices focused on your specific interests. In particular, your choice of internship and minor help you give your studies your own specific direction and substance. If you devote 40 hours per week to your studies, you will definitely make it.",
+      "location": "Eindhoven",
+      "course_tag": "Fin",
+      "course_type": "Bachelor",
+      "course_degree": "Bachelor of Science",
+      "course_duration": "48 Months",
+      "course_language": "English",
+      "course_start": "September 2020",
+      "course_study_variant": "Full-Time",
+      "gallery": [
+        {
+          "image": "https://images.pexels.com/photos/3862618/pexels-photo-3862618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "image": "https://images.pexels.com/photos/3912369/pexels-photo-3912369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "image": "https://images.pexels.com/photos/3862632/pexels-photo-3862632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "image": "https://images.pexels.com/photos/3862611/pexels-photo-3862611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        }
+      ],
+      "courses_background_photo": "https://images.pexels.com/photos/3862627/pexels-photo-3862627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "degree_background_photo": "https://fontys.edu/upload_mm/7/9/4/b15d842b-b4eb-40d4-88ce-96d0603e4769_hero%20edu_1920x842_5.png"
+    },
+
+    {
+      "id": "16c4d195-a268-4123-b965-01a89bb71119",
+      "degree": "Automotive Engineering",
+      "curriculum_title": "Fontys University",
+      "curriculum_description": "The University of Applied Sciences (HBO) Automotive Engineering Programme takes 4 years and the teaching materials consist of theory, practical sessions and project work. Every student follows the same programme for the first 2 years. From the 3rd academic year onwards, you have multiple choices focused on your specific interests. In particular, your choice of internship and minor help you give your studies your own specific direction and substance. If you devote 40 hours per week to your studies, you will definitely make it.",
+      "location": "Eindhoven",
+      "course_tag": "Finance",
+      "course_type": "Bachelor",
+      "course_degree": "Bachelor of Science",
+      "course_duration": "48 Months",
+      "course_language": "English",
+      "course_start": "September 2020",
+      "course_study_variant": "Full-Time",
+      "gallery": [
+        {
+          "image": "https://images.pexels.com/photos/3862618/pexels-photo-3862618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "image": "https://images.pexels.com/photos/3912369/pexels-photo-3912369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "image": "https://images.pexels.com/photos/3862632/pexels-photo-3862632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "image": "https://images.pexels.com/photos/3862611/pexels-photo-3862611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        }
+      ],
+      "courses_background_photo": "https://images.pexels.com/photos/3862627/pexels-photo-3862627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "degree_background_photo": "https://fontys.edu/upload_mm/7/9/4/b15d842b-b4eb-40d4-88ce-96d0603e4769_hero%20edu_1920x842_5.png"
+    },
+    {
+      "id": "294d7d48-f2ad-4694-ac29-da5f2e423ee6",
+      "degree": "Logistics Management",
+      "curriculum_title": "EAL (Lillebaelt Academy)",
+      "curriculum_description": "Logistics Management is the ideal study programme for students who wish to utilise efficient logistics to unite the world. Companies today are looking for employees with strong competences within business, language, and logistics. If you would like to play a central role in planning, coordinating, and managing the company’s flow of goods and information in a global setting, this is the perfect study programme for you! Why not choose a challenging study that will provide you with core competences within logistics, international finance, and supply chain management? Your career begins from the very first day of your studies. Throughout the programme, we focus on highly relevant issues within the subject area, amongst other things, by having experienced professionals and specialists visit as guest lecturers. You will acquire core competences upon which you can build further – either in subsequent job situations or through Top-Ups either in Denmark or abroad. As a student at UCL University College, you will also have an opportunity to gain international experience during your period of study.",
+      "location": "Vejle",
+      "course_tag": "Logistics",
+      "course_type": "Bachelor",
+      "course_degree": "Academy Profession Programme",
+      "course_duration": "2 Years",
+      "course_language": "English",
+      "course_start": "February (Winter) 2021",
+      "course_study_variant": "Full-Time",
+      "gallery": [
+        {
+          "image": "https://images.pexels.com/photos/1108101/pexels-photo-1108101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "image": "https://images.pexels.com/photos/1216589/pexels-photo-1216589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        }
+      ],
+      "courses_background_photo": "https://www.ucl.dk/globalassets/01.-uddannelser/a.-videregaende-uddannelser/danske-uddannelser/business-og-digital-udvikling/logistikokonom/logistikokonom_prakti_venstre_1440x810px.jpg/KrakenOptimizedLargeFit",
+      "degree_background_photo": "https://fontys.edu/upload_mm/7/9/4/b15d842b-b4eb-40d4-88ce-96d0603e4769_hero%20edu_1920x842_5.png"
+    }
+  ]
+}
